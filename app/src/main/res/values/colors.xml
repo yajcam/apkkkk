@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_background">#0F0F11</color>
+    <color name="color_surface">#17171A</color>
+    <color name="color_gold">#D4AF37</color>
+    <color name="color_gold_soft">#E6C75C</color>
+    <color name="color_cream">#F5F0E6</color>
+    <color name="color_text_secondary">#B9B6AE</color>
+    <color name="color_divider">#33D4AF37</color>
+</resources>

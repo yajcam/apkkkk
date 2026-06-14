@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">macQUERY</string>
+    <string name="app_subtitle">Online</string>
+    <string name="site_url" translatable="false">https://macquery-online-1.jimdosite.com/</string>
+
+    <string name="splash_quote">“Learning never exhausts the mind.”</string>
+    <string name="splash_author">— Leonardo da Vinci</string>
+
+    <string name="offline_title">No internet connection</string>
+    <string name="offline_message">Please check your connection and try again.</string>
+    <string name="retry">Retry</string>
+
+    <string name="content_desc_logo">macQUERY logo</string>
+</resources>
